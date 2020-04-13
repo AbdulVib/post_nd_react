@@ -1,0 +1,19 @@
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 5%;
+  text-align: center;
+}
+
+.CreateReaction > span{
+  cursor: pointer;
+  padding: 10px 0;
+}
+
